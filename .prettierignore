@@ -50,3 +50,5 @@ CHANGELOG.md
 CONTRIBUTING.md
 *.yml
 *.yaml
+# ghav harness files
+.github/workflows/ghav-*.yml
